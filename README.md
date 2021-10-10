@@ -2,21 +2,22 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: Đỗ Hoàng Phúc - 19522027
+- Member:Hà Thị Kiều Oanh - 19521983
+- Member: Nguyễn Huỳnh Thảo Như - 19521970
+-  Member:  Trần Thị Cẩm Tú - 19522458
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: [here](https://trello.com/b/hwUyLq4V/c%E1%BA%A7n-l%C3%A0m) [Replace by your public board later]
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
 Tech stacks:
 
-- Front-end: [...]
-- Back-end: [...]
-- Database: [...]
-- ...
+- Front-end:  Đỗ Hoàng Phúc - Hà Thị Kiều Oanh
+- Back-end: Nguyễn Huỳnh Thảo Như - Đỗ Hoàng Phúc
+- Database:Trần Thị Cẩm Tú -Đỗ Hoàng Phúc
+
 
 Demo online: [link to website - update later]
 
