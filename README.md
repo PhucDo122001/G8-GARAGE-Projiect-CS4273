@@ -8,7 +8,7 @@ Participants:
 -  Member:  Trần Thị Cẩm Tú - 19522458
 
 
-Task management table: [here](https://trello.com/b/hwUyLq4V/c%E1%BA%A7n-l%C3%A0m) [Replace by your public board later]
+Task management table: [here](https://trello.com/b/hwUyLq4V/g8-garage-projiect-cs4273) [Replace by your public board later]
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
