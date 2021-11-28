@@ -29,7 +29,7 @@ This repository is the sample. For saving time, you can fork it and develop your
 
 ## 2. About the structure
 
-- Folder Code: contain whole codes, include FE - BE - Database, ...
+- Folder Code: contain whole codes, include BUS-DAO-DTO - Database, ...
 
 - Folder Diagram: hold your .png files, those are diagrams that you need to submit quickly.
 
